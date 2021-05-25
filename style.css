@@ -1,0 +1,14 @@
+.home-image{
+    background-image: url("images/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+} 
+.decore{
+    text-decoration-style: none;
+}
+
+.navbarBgColor{
+    background-color: rgba(0,0,0,0.7);
+}
